@@ -1,3 +1,2 @@
-﻿//this lets us detect adblockers so we can adjust the layout in case ads aren't shown ! (we're not using this for anything weird, promise !)
-//this works because an adblocker will usually block this file from being embedded at all
-var showAds=true;
+//hey there orteil. i'm removing the adblocker detection thingies cuz the ads wont show anyways for some reason...
+//so please don't hold me hostage in ur basement
